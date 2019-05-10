@@ -6,8 +6,6 @@
     <description>Recent content on &#39;a bit off&#39;</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <managingEditor>priyank.juggernaut@gmail.com (Priyank Srivastava)</managingEditor>
-    <webMaster>priyank.juggernaut@gmail.com (Priyank Srivastava)</webMaster>
     <lastBuildDate>Sun, 05 May 2019 01:45:06 +0530</lastBuildDate>
     
 	<atom:link href="https://priyank-sriv.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -17,9 +15,10 @@
       <title>about</title>
       <link>https://priyank-sriv.github.io/page/about/</link>
       <pubDate>Sun, 05 May 2019 01:45:06 +0530</pubDate>
-      <author>priyank.juggernaut@gmail.com (Priyank Srivastava)</author>
+      
       <guid>https://priyank-sriv.github.io/page/about/</guid>
-      <description>About this blog a bit off is a coder&amp;rsquo;s log - the idea is to help future me revisit stuff that I might have unlearnt along the way, intentionally or unintentionally. Why&amp;rsquo;s it public? Well, I&amp;rsquo;m hoping there are people out there who may find it useful, which means I&amp;rsquo;ll make an effort to not suck!
+      <description>Dear reader,
+a bit off is a coder&amp;rsquo;s log - the idea is to help future me revisit stuff that I might have unlearnt along the way, intentionally or unintentionally. Why&amp;rsquo;s it public? Well, I&amp;rsquo;m hoping there are people out there who may find it useful, which means I&amp;rsquo;ll make an effort to not suck!
 The content encompasses stuff that I learn in my day job as a developer, or pursuits outside of it.</description>
     </item>
     
